@@ -17,7 +17,7 @@
         <hibernateVersion>3.6.3.Final</hibernateVersion>
         <jstlVersion>1.2</jstlVersion>
         <dbcpVersion>1.4</dbcpVersion>
-        <mysqlVersion>5.1.9</mysqlVersion>
+        <mysqlVersion>8.0.16</mysqlVersion>
         <dubboVersion>2.6.1</dubboVersion>
         <zooVersion>3.4.11</zooVersion>
     </properties>
